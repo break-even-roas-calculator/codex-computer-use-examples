@@ -39,4 +39,5 @@ A short checklist distilled from the source's warning that Computer Use is the b
 
 Computer use is the right tool when the app has no other door: a native desktop app, an iOS simulator, a settings pane. It is the wrong tool when the outcome is a website or a mobile prototype and you are only automating a builder's UI to get there. For that, [Try Begin.sh - turn a prompt or a URL into a downloadable static site or Expo app](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=codex-computer-use-examples&utm_content=readme-top&utm_term=tier-r). Write the prompt or paste a URL to clone, download the zip, and host it yourself; there is no hosting, backend or auth to set up, and no agent clicking through anything.
 
+
 _Last reviewed: 2026-09-22_
